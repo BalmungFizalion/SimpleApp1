@@ -18,5 +18,11 @@ namespace SimpleApp1
         {
             Name = name;
         }
+
+        public void DoSomething()
+        {
+            //здесь что-то происходит
+        }
+
     }
 }
